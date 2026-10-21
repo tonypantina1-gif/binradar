@@ -42,9 +42,7 @@ If you have any questions, feedback, or need assistance with BinRadar, please co
 
 - **Support Email:** [binradar@proton.me]
 
-- __________________________________________________________________________________________________________________________________________________________________________
-
----
+___
 
 # Terms of Use (EULA)
 
