@@ -41,3 +41,25 @@ If we ever update this policy to reflect new app capabilities, we will update th
 If you have any questions, feedback, or need assistance with BinRadar, please contact us at:
 
 - **Support Email:** [binradar@proton.me]
+
+- __________________________________________________________________________________________________________________________________________________________________________
+
+---
+
+# Terms of Use (EULA)
+
+**Last Updated: October 2026**
+
+By downloading or using **BinRadar**, you agree to these Terms of Use and Apple's Standard Licensed Application End User License Agreement (EULA).
+
+### 1. Standard Apple EULA
+This application is licensed, not sold, to you for use strictly under the terms of Apple’s Standard End User License Agreement, available here:  
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+### 2. Subscriptions & In-App Purchases
+- **Auto-Renewing Subscriptions:** Payment will be charged to your Apple ID account at the confirmation of purchase. Subscriptions automatically renew unless canceled at least 24 hours before the end of the current billing period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions in your App Store Account Settings after purchase.
+- **Lifetime Unlock:** A one-time, non-consumable purchase that grants permanent access to BinRadar Pro features on your Apple ID.
+
+### 3. Disclaimer of Warranties
+BinRadar is provided "as is" without warranties of any kind. All data and inventory organization remain locally under your control.
+
