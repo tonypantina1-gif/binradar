@@ -1,63 +1,97 @@
-# binradar
-# BinRadar — Privacy Policy & Support
+# BinRadar — Privacy Policy, Support & Terms of Use
 
-**Effective Date:** 19 October 2026  
-**App Version:** 1.0+ (iOS)
+**Effective 1 November 2026** · BinRadar 1.0+ for iPhone
 
-BinRadar is designed from the ground up with complete privacy as a core principle. Your home inventory belongs strictly to you.
+**Summary:** BinRadar collects no personal data. Your inventory and photos never leave your iPhone unless you choose to share them.
 
----
-
-## 1. Zero Data Collection
-BinRadar **does not collect, transmit, store, or share any personal data, usage analytics, photos, or inventory information** on external servers. 
-- **No Accounts Required:** You never need to create an account, sign in, or provide your name, email address, or phone number to use BinRadar.
-- **No Analytics or Trackers:** BinRadar contains zero third-party analytics SDKs, advertising frameworks, or tracking pixels.
-
-## 2. 100% On-Device Storage & AI Processing
-- **Local Storage:** All bins, items, photos, locations, values, serial numbers, QR codes, and generated PDF reports are stored locally on your iPhone using Apple’s native on-device storage frameworks.
-- **On-Device Intelligence:** Features such as background subject lifting, object tagging, text recognition (OCR), and Spotlight search indexing are performed 100% offline directly on your device using Apple’s built-in Vision and CoreSpotlight frameworks. Your photos and data never leave your iPhone.
-
-## 3. Camera & Photo Library Permissions
-BinRadar requests access to your device’s **Camera** and **Photo Library** solely so you can:
-1. Take or select photos of your storage bins and household items.
-2. Scan BinRadar QR code labels to quickly locate your bins.
-
-All captured images remain exclusively on your device unless you explicitly choose to export or share a backup or PDF report using the iOS Share Sheet.
-
-## 4. In-App Purchases
-BinRadar Pro upgrades (Monthly Pro subscription and Lifetime Pro one-time purchase) are processed securely and directly by Apple via the App Store (StoreKit). BinRadar never receives or has access to your credit card, billing details, or Apple ID information. You can manage or cancel subscriptions at any time in your iPhone **Settings > Apple Account > Subscriptions**.
-
-## 5. Data Backups & Deletion
-Because all data is stored locally on your device:
-- You have full control over exporting backups or PDF reports via the in-app **Tools** tab.
-- Deleting an item or bin inside the app (or uninstalling BinRadar from your device) permanently removes that data from your device.
-
-## 6. Changes to This Policy
-If we ever update this policy to reflect new app capabilities, we will update the "Effective Date" at the top of this page.
+**Support:** [aafdigital@proton.me](mailto:aafdigital@proton.me)
 
 ---
 
-## 7. Support & Contact
-If you have any questions, feedback, or need assistance with BinRadar, please contact us at:
+# Privacy Policy
 
-- **Support Email:** [aafdigital@proton.me](mailto:aafdigital@proton.me)
+## No Data Collected
 
-___
+BinRadar has no accounts, no analytics, no advertising, and no third-party SDKs or trackers. The developer never receives your inventory, photos, or information about how you use the app.
+
+## Stored Only on Your Device
+
+Locations, bins, items and photos are stored in BinRadar's private storage on your iPhone. If you use iPhone or iCloud device backups, Apple includes this data in those backups; the developer has no access to them.
+
+## Works Offline
+
+BinRadar makes no network requests of its own. Photo recognition, text reading, background removal and name suggestions (including Apple Intelligence, where available) run entirely on your device.
+
+## iPhone Search
+
+Bin and item names, codes, tags and locations are added to your iPhone's on-device Search index so you can find them from the Home Screen. This index stays on your device. You can turn it off in Settings under BinRadar › Siri & Search.
+
+## Camera & Photos
+
+The camera and photo library are used only when you take or choose a photo of a bin or item, or scan a QR label. Photos are saved on your device and are not uploaded anywhere.
+
+## Purchases
+
+Pro purchases are processed by Apple through the App Store under Apple's Privacy Policy. The developer does not receive your name, Apple Account or payment details.
+
+## Sharing Is Always Your Choice
+
+PDF reports, QR labels and backup files are created on your device and only go where you send them using the iOS share sheet, Files or AirPrint.
+
+## Diagnostics
+
+BinRadar does not collect crash or usage data. If you have turned on "Share With App Developers" in iOS Settings, Apple may share anonymous crash reports with the developer under Apple's own terms.
+
+## Deleting Your Data
+
+Delete items, bins or locations in the app at any time. Deleting BinRadar removes all of its data from your device.
+
+## Children
+
+BinRadar does not collect data from anyone, including children.
+
+## Changes & Contact
+
+If this policy changes, the updated version will appear in the app and on this page. For questions or feedback, email [aafdigital@proton.me](mailto:aafdigital@proton.me).
+
+App Store privacy label: **Data Not Collected**. This page mirrors the in-app privacy policy (Tools & Export › Privacy Policy).
+
+---
+
+# Support
+
+For questions, feedback or help with BinRadar, email **[aafdigital@proton.me](mailto:aafdigital@proton.me)**, or tap **Tools & Export › Support** in the app to start an email with your app version filled in.
+
+Because everything stays on your iPhone, we can't see or recover your data. Use **Tools & Export › Backup & Restore** to keep a copy of your inventory in a .zip file you control.
+
+---
 
 # Terms of Use (EULA)
 
-**Last Updated: October 2026**
+**Last updated 1 November 2026**
 
 By downloading or using **BinRadar**, you agree to these Terms of Use and Apple's Standard Licensed Application End User License Agreement (EULA).
 
 ### 1. Standard Apple EULA
-This application is licensed, not sold, to you for use strictly under the terms of Apple’s Standard End User License Agreement, available here:  
+
+BinRadar is licensed, not sold, to you for use under the terms of Apple's Standard Licensed Application End User License Agreement:
 https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
-### 2. Subscriptions & In-App Purchases
-- **Auto-Renewing Subscriptions:** Payment will be charged to your Apple ID account at the confirmation of purchase. Subscriptions automatically renew unless canceled at least 24 hours before the end of the current billing period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions in your App Store Account Settings after purchase.
-- **Lifetime Unlock:** A one-time, non-consumable purchase that grants permanent access to BinRadar Pro features on your Apple ID.
+### 2. BinRadar Pro
 
-### 3. Disclaimer of Warranties
-BinRadar is provided "as is" without warranties of any kind. All data and inventory organization remain locally under your control.
+- **Free plan:** up to 5 bins and 50 items, single QR labels and a report preview. Everything you add stays viewable, searchable, scannable and backed up on the free plan; it is never locked away.
+- **Lifetime Pro:** a one-time, non-consumable in-app purchase (£19.99 in the UK; the App Store shows the price in your local currency before you buy). It unlocks unlimited bins and items, QR sticker sheets and full PDF reports for your Apple Account, with no subscription and no renewals. Payment is charged to your Apple Account at confirmation of purchase.
+- **Restoring purchases:** reinstalled or on a new device, tap **Restore Purchases** in the app to unlock Pro again on the same Apple Account.
+- **Existing Monthly Pro subscribers:** Monthly Pro is no longer offered. If you already subscribe, it continues and renews until you cancel it in **Settings › Apple Account › Subscriptions**, at least 24 hours before the end of the current period. You can switch to Lifetime Pro in the app at any time.
 
+### 3. Your Data
+
+All inventory data is stored on your device. You are responsible for keeping your own backups; the developer cannot access, restore or recover your data.
+
+### 4. Disclaimer of Warranties
+
+BinRadar is provided "as is" without warranties of any kind. Item names, tags and serial numbers suggested by on-device recognition can be wrong, and values are your own estimates; check them before relying on them for insurance or legal purposes.
+
+### 5. Contact
+
+[aafdigital@proton.me](mailto:aafdigital@proton.me)
