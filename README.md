@@ -40,7 +40,7 @@ If we ever update this policy to reflect new app capabilities, we will update th
 ## 7. Support & Contact
 If you have any questions, feedback, or need assistance with BinRadar, please contact us at:
 
-- **Support Email:** [binradar@proton.me]
+- **Support Email:** [aafdigital@proton.me](mailto:aafdigital@proton.me)
 
 ___
 
